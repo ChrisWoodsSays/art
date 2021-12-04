@@ -4,6 +4,6 @@
 
 ![Blue Circles](output/BlueCircles.jpg)
 
-## Blue Circles
+## Rotating Pins
 
-![Blue Circles](output/RotatingPins2021-12-04 18/43/02.jpg)
+![Rotating Pins](output/RotatingPins.jpg)
