@@ -2,4 +2,4 @@
 
 ## Blue Circles
 
-![Blue Circles](output/images/BlueCircles.jpg)
+![Blue Circles](output/BlueCircles.jpg)
