@@ -51,3 +51,5 @@ g <- g +
        #subtitle = "",
        caption = "V.0.1, 2.12.2021  |  Visualisation by @ChrisWoodsSays    ") # Included as caption right margin doesn;t seem to work
 print(g)
+
+ggsave(g, here::here("output","BlueCircles.jpg"))
